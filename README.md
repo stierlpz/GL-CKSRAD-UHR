@@ -1,1 +1,6 @@
-# GL-CKSRAD-UHR
+1. download "GL-CKSRAD-UHR-master"
+2. entpacke "GL-CKSRAD-UHR-master"
+3. öffne Ordner "GL-CKSRAD-UHR-master"
+4. entpacke "glr_uhr"
+5. öffne Ordner "gluecksrad_uhr_exe"
+6. öffne "glr_uhr"
