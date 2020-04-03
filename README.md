@@ -1,4 +1,4 @@
-1. download "GL-CKSRAD-UHR-master"
+1. download "GL-CKSRAD-UHR-master"    - "Clone or download"
 2. entpacke "GL-CKSRAD-UHR-master"
 3. öffne Ordner "GL-CKSRAD-UHR-master"
 4. entpacke "glr_uhr"
