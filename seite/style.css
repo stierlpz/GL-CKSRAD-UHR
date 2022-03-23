@@ -1,0 +1,30 @@
+.clock-face {
+    height: 640px;
+    width: 640px;
+    position: relative;
+}
+
+.clock-face > * {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 640px;
+    width: 640px;
+}
+.clock-face img {
+    display: block;
+    height: 640px;
+    width: 640px;
+}
+
+.clock-face .second-hand img {
+    animation: spin 60s linear infinite;
+}
+.clock-face .minute-hand img {
+    animation: spin 3600s linear infinite;
+}
+.clock-face .hour-hand img {
+    animation: spin 43200s linear infinite;
+}
+
+@keyframes spin { 100% { transform: rotate(360deg); } }
